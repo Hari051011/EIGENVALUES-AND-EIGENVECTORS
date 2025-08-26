@@ -28,7 +28,7 @@ eigenvalues, eigenvectors = np.linalg.eig(A)
 print("Eigen values are",eigenvalues,"and Eigen Vectors are",eigenvectors)
 ```
 ## Output:
-![alt text](image.png)
+![alt text](<Screenshot 2025-08-26 144059.png>)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
